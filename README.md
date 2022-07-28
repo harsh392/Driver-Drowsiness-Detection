@@ -15,7 +15,7 @@ The output of the python code is
 ![Screenshot (163)](https://user-images.githubusercontent.com/100019466/181527139-c495b67e-c573-4c8c-ac9a-3d3bcfaad7b7.png)
 
 
-Team Members:
+Team Members:<br />
 Ishu Khandelwal (Team Lead)<br />
 Harsh Makwana<br />
 Sanchit Agarkar<br />
