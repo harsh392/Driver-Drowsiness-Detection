@@ -16,8 +16,8 @@ The output of the python code is
 
 
 Team Members:
-Ishu Khandelwal (Team Lead)
-Harsh Makwana
-Sanchit Agarkar
-Lakshya Pokharana
-Ajinkya Mahure
+Ishu Khandelwal (Team Lead)<br />
+Harsh Makwana<br />
+Sanchit Agarkar<br />
+Lakshya Pokharana<br />
+Ajinkya Mahure<br />
